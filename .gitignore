@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# no quiero incluir imagenes
+*.jpg
+*.JPG
+*.bmp
+*.gif
