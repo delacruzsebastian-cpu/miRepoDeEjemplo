@@ -1,2 +1,2 @@
 # miRepoDeEjemplo
- este es eun repositorio temporal de enseñanza
+ este es un repositorio temporal de enseñanza
